@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="800" height="848" viewBox="0 0 800 848">
+<style>
+  @keyframes type-row {
+    0% { clip-path: polygon(0% 0%, 0% 100%, 0% 100%, 0% 0%); }
+    100% { clip-path: polygon(0% 0%, 100% 100%, 100% 100%, 0% 0%); }
+  }
+  .ascii-row {
+    animation: type-row 0.5s ease-out forwards;
+    font-family: "Courier New", monospace;
+    font-size: 13px;
+    fill: #888888;
+    font-weight: normal;
+    white-space: pre;
+  }
+</style>
+<text class="ascii-row" x="0" y="16" style="animation-delay: 0s;">       ▄██████████████▄</text>
+<text class="ascii-row" x="0" y="32" style="animation-delay: 0.03s;">     ▄██████████████████▄</text>
+<text class="ascii-row" x="0" y="48" style="animation-delay: 0.06s;">    ██████████████████████</text>
+<text class="ascii-row" x="0" y="64" style="animation-delay: 0.09s;">   ████████      ████████</text>
+<text class="ascii-row" x="0" y="80" style="animation-delay: 0.12s;">   ████████      ████████</text>
+<text class="ascii-row" x="0" y="96" style="animation-delay: 0.15s;">   ██████████████████████</text>
+<text class="ascii-row" x="0" y="112" style="animation-delay: 0.18s;">    ████████████████████</text>
+<text class="ascii-row" x="0" y="128" style="animation-delay: 0.21s;">     ██████████████████</text>
+<text class="ascii-row" x="0" y="144" style="animation-delay: 0.24s;">       ▀██████████████▀</text>
+<text class="ascii-row" x="0" y="160" style="animation-delay: 0.27s;"></text>
+<text class="ascii-row" x="0" y="176" style="animation-delay: 0.30s;">   🔥 AI/ML Engineer</text>
+<text class="ascii-row" x="0" y="192" style="animation-delay: 0.33s;">   💻 Full Stack Dev</text>
+<text class="ascii-row" x="0" y="208" style="animation-delay: 0.36s;">   📚 CS Student</text>
+<text class="ascii-row" x="0" y="224" style="animation-delay: 0.39s;"></text>
+<text class="ascii-row" x="0" y="240" style="animation-delay: 0.42s;">Building research projects</text>
+<text class="ascii-row" x="0" y="256" style="animation-delay: 0.45s;">in computer vision & NLP</text>
+</svg>

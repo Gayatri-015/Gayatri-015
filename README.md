@@ -1,83 +1,48 @@
 <div align="center">
 
-### 👋 Hi, I'm Gayatri
-**Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast**
+## `gayatri-015@github ~ $ ./contributions.sh`
 
-```text
- ██████╗  █████╗ ██╗   ██╗ █████╗ ████████╗██████╗ ██╗
-██╔════╝ ██╔══██╗╚██╗ ██╔╝██╔══██╗╚══██╔══╝██╔══██╗██║
-██║  ███╗███████║ ╚████╔╝ ███████║   ██║   ██████╔╝██║
-██║   ██║██╔══██║  ╚██╔╝  ██╔══██║   ██║   ██╔══██╗██║
-╚██████╔╝██║  ██║   ██║   ██║  ██║   ██║   ██║  ██║██║
- ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝
+![contributions](contrib-heatmap.svg)
+
+---
+
+## `gayatri-015@github ~ $ whoami`
+
+| | |
+|---|---|
+| ![ASCII Portrait](avi-ascii.svg) | ![Info Card](info-card.svg) |
+
+---
+
+## `gayatri-015@github ~ $ cat about.md`
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                   👋 Hi, I'm Gayatri                         ║
+║      Computer Science Engineering Student                    ║
+║         Full Stack Developer | AI/ML Enthusiast              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+### 💻 Tech Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Python+Developer;AI%2FML+Enthusiast;Building+Research+Projects;Always+Learning+%F0%9F%9A%80" />
-</p>
+**Languages**
+![](https://skillicons.dev/icons?i=python,java,js,html,css)
 
----
+**Frameworks & Tools**
+![](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,vscode)
 
-## 🖥️ `neofetch`
-
-```text
-       ▄██████████████▄          Gayatri-015
-     ▄██████████████████▄        ─────────────────────
-    ██████████████████████       OS       → Student Life
-   ████████      ████████        Shell    → Git Bash
-   ████████      ████████        Editor   → VS Code
-   ██████████████████████        Language → Python / JavaScript
-    ████████████████████         Stack    → Full Stack
-     ██████████████████          Focus    → AI/ML + Web
-       ▀██████████████▀          Status   → Learning 🚀
-```
+**AI / ML**
+![](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn)
 
 ---
 
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayatri-015&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gayatri-015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayatri-015&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 💻 Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,vscode" />
-</p>
-
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
-</p>
-
----
-
-## 🚀 Featured Projects
+## `gayatri-015@github ~ $ ls -la projects/`
 
 ### 🤟 Indian Sign Language Recognition
 Research-oriented Indian Sign Language Recognition system using computer vision and deep learning.
 
-**Focus:** `Computer Vision` `Deep Learning` `Transformers` `Python`
+**Tech:** `Computer Vision` `Deep Learning` `Transformers` `Python`
 
 ---
 
@@ -95,9 +60,9 @@ Machine-learning based weather forecasting and comparison project.
 
 ---
 
-## 📚 Currently Learning
+## `gayatri-015@github ~ $ cat learning.txt`
 
-```text
+```
 ┌─────────────────────────────────────────┐
 │ 🔥 Current Focus                        │
 ├─────────────────────────────────────────┤
@@ -112,47 +77,27 @@ Machine-learning based weather forecasting and comparison project.
 
 ---
 
-## 🐍 Contribution Snake
+## `gayatri-015@github ~ $ connect.sh`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gayatri-015/Gayatri-015/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gayatri-015&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Gayatri-015">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayatri-015)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri)
 
 ---
 
 <p align="center">
 
-```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║       "Code. Learn. Build. Repeat."      ║
-║                                          ║
-╚══════════════════════════════════════════╝
+```
+╔════════════════════════════════════════╗
+║                                        ║
+║    "Code. Learn. Build. Repeat."       ║
+║                                        ║
+║    Let's build something awesome 🚀    ║
+║                                        ║
+╚════════════════════════════════════════╝
 ```
 
-### ⭐ Thanks for visiting my profile!
-
-**Let's build something awesome together 🚀**
+**Thanks for visiting my profile!**
 
 </p>
+
+</div>
