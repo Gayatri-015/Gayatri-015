@@ -12,10 +12,10 @@ def create_info_card_svg(output_path="info-card.svg"):
     
     # Data for the card
     info_rows = [
-        ("Now", "AI/ML + Full Stack Dev"),
-        ("Prev", "Computer Science Student"),
-        ("Stack", "Python, JS, React, TensorFlow"),
-        ("Focus", "Sign Language Recognition"),
+        ("Now", "CS Student | Full Stack Dev"),
+        ("Prev", "Intern at DRDO, Chandipur"),
+        ("Stack", "Python, JS, React, NodeJS"),
+        ("Focus", "Full Stack Developer"),
     ]
     
     row_height = 32

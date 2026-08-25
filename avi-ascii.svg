@@ -10,7 +10,7 @@
     animation: type-row 0.5s ease-out forwards;
     font-family: "Courier New", monospace;
     font-size: 13px;
-    fill: #888888;
+    fill: #0066ff;
     font-weight: normal;
     white-space: pre;
   }

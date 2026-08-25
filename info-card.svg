@@ -34,8 +34,8 @@
 </style>
 <rect class="card-border" x="4" y="4" width="472" height="180" rx="8" />
 <text class="card-line" x="16" y="28" style="animation-delay: 0s;" style="font-family: Courier New, monospace; font-size: 14px; fill: #00d4ff; font-weight: bold;">$ whoami</text>
-<g class="card-line" style="animation-delay: 0.15s;"><text class="card-label" x="16" y="60">Now:</text><text class="card-value" x="100" y="60">AI/ML + Full Stack Dev</text></g>
-<g class="card-line" style="animation-delay: 0.3s;"><text class="card-label" x="16" y="92">Prev:</text><text class="card-value" x="100" y="92">Computer Science Student</text></g>
-<g class="card-line" style="animation-delay: 0.44999999999999996s;"><text class="card-label" x="16" y="124">Stack:</text><text class="card-value" x="100" y="124">Python, JS, React, TensorFlow</text></g>
-<g class="card-line" style="animation-delay: 0.6s;"><text class="card-label" x="16" y="156">Focus:</text><text class="card-value" x="100" y="156">Sign Language Recognition</text></g>
+<g class="card-line" style="animation-delay: 0.15s;"><text class="card-label" x="16" y="60">Now:</text><text class="card-value" x="100" y="60">CS Student | Full Stack Dev</text></g>
+<g class="card-line" style="animation-delay: 0.3s;"><text class="card-label" x="16" y="92">Prev:</text><text class="card-value" x="100" y="92">Intern at DRDO, Chandipur</text></g>
+<g class="card-line" style="animation-delay: 0.44999999999999996s;"><text class="card-label" x="16" y="124">Stack:</text><text class="card-value" x="100" y="124">Python, JS, React, NodeJS</text></g>
+<g class="card-line" style="animation-delay: 0.6s;"><text class="card-label" x="16" y="156">Focus:</text><text class="card-value" x="100" y="156">Full Stack Developer</text></g>
 </svg>
